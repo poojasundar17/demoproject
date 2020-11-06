@@ -1,0 +1,12 @@
+
+
+html,
+body {
+	height: 100%;
+}
+.form-container
+{
+	background-color: #fff;
+    border-radius: 8px;	
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
